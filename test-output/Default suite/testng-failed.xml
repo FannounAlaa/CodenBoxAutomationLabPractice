@@ -6,7 +6,7 @@
       <class name="AutomationTestSuite">
         <methods>
           <include name="Setup"/>
-          <include name="LoginTest"/>
+          <include name="TestStaticDDL"/>
           <include name="DoWork"/>
         </methods>
       </class> <!-- AutomationTestSuite -->
